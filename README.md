@@ -98,4 +98,3 @@ This pipeline supports the following business domains across all layers:
 
 ---
 
-Let us know if you'd like to contribute, extend the pipeline, or add additional data sources!
